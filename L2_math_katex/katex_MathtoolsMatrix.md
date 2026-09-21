@@ -1,0 +1,7 @@
+# MathtoolsMatrix
+
+Inline: $\begin{matrix*}[l] a & -1 \\ -1 & d \end{matrix*} \; \begin{pmatrix*}[r] a & -1 \\ -1 & d \end{pmatrix*}$
+
+$$
+\begin{matrix*}[l] a & -1 \\ -1 & d \end{matrix*} \; \begin{pmatrix*}[r] a & -1 \\ -1 & d \end{pmatrix*}
+$$

@@ -1,0 +1,19 @@
+# Integrands
+
+Inline: $\begin{array}{l}
+    \displaystyle \int + \oint + \iint + \oiint_i^n \\[0.6em]
+    \displaystyle \iiint + \oiiint + \textstyle \int + \oint_i^n \\[0.6em]
+    \iint + \oiint + \iiint + \oiiint \\[0.6em]
+    \int\limits^x_{y + 4 - a} \int\limits^x_{y + 4 - a}
+\end{array}
+$
+
+$$
+\begin{array}{l}
+    \displaystyle \int + \oint + \iint + \oiint_i^n \\[0.6em]
+    \displaystyle \iiint + \oiiint + \textstyle \int + \oint_i^n \\[0.6em]
+    \iint + \oiint + \iiint + \oiiint \\[0.6em]
+    \int\limits^x_{y + 4 - a} \int\limits^x_{y + 4 - a}
+\end{array}
+
+$$

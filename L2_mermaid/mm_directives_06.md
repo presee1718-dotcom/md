@@ -1,0 +1,12 @@
+# directives #6
+
+```mermaid
+%%{init: { "flowchart": { "htmlLabels": true, "curve": "linear" } } }%%
+graph TD
+A(Forest) --> B[/Another/]
+A --> C[End]
+  subgraph section
+  B
+  C
+  end
+```

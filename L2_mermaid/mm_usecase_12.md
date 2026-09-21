@@ -1,0 +1,16 @@
+# usecase #12
+
+```mermaid
+usecase-beta
+actor User
+actor Support
+Start
+Finish
+User --> Start
+Start <-- Support
+Start -- Finish
+User --o Start
+Start o-- Support
+User --x Finish
+Finish x-- Support
+```

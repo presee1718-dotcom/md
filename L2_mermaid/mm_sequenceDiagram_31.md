@@ -1,0 +1,8 @@
+# sequenceDiagram #31
+
+```mermaid
+sequenceDiagram
+    critical Establish a connection to the DB
+        Service-->DB: connect
+    end
+```

@@ -1,0 +1,9 @@
+# flowchart #107
+
+```mermaid
+flowchart LR
+    A e1@==> B
+    A e2@--> C
+    e1@{ curve: linear }
+    e2@{ curve: natural }
+```

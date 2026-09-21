@@ -1,0 +1,11 @@
+# sankey #3
+
+```mermaid
+sankey
+
+Bio-conversion,Losses,26.862
+
+Bio-conversion,Solid,280.322
+
+Bio-conversion,Gas,81.144
+```

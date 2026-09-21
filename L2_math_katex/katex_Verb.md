@@ -1,0 +1,21 @@
+# Verb
+
+Inline: $\begin{array}{ll}
+  \verb \verb ,   & \verb|\verb  |, \\
+  \verb* \verb* , & \verb*|\verb* |, \\
+  \verb!<x> & </y>! & \scriptstyle\verb|ss verb| \\
+  \verb*!<x> & </y>! & \small\verb|sm verb| \\
+  \verb|``---''~|
+\end{array}
+$
+
+$$
+\begin{array}{ll}
+  \verb \verb ,   & \verb|\verb  |, \\
+  \verb* \verb* , & \verb*|\verb* |, \\
+  \verb!<x> & </y>! & \scriptstyle\verb|ss verb| \\
+  \verb*!<x> & </y>! & \small\verb|sm verb| \\
+  \verb|``---''~|
+\end{array}
+
+$$

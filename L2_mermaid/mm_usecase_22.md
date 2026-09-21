@@ -1,0 +1,15 @@
+# usecase #22
+
+```mermaid
+usecase-beta
+accTitle: Account access use cases
+accDescr {
+  A customer signs in and can reset a password.
+  The diagram names the actor, use cases, and associations.
+}
+actor Customer
+SignIn("Sign in")
+Reset("Reset password")
+Customer --> SignIn
+Customer --> Reset
+```

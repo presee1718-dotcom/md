@@ -1,0 +1,12 @@
+# railroad #9
+
+```mermaid
+railroad-ebnf-beta
+title "JSON Grammar"
+
+json = element ;
+element = object | array | string | number | "true" | "false" | "null" ;
+object = "{" [ member ( "," member )* ] "}" ;
+array = "[" [ element ( "," element )* ] "]" ;
+member = string ":" element ;
+```

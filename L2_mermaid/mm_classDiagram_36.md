@@ -1,0 +1,10 @@
+# classDiagram #36
+
+```mermaid
+classDiagram
+  class Animal:::pink
+  class Mineral
+
+  classDef default fill:#f96,color:red
+  classDef pink color:#f9f
+```

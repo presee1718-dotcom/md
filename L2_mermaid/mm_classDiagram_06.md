@@ -1,0 +1,8 @@
+# classDiagram #6
+
+```mermaid
+classDiagram
+    class Animal["Animal with a label"]
+    class Car["Car with *! symbols"]
+    Animal --> Car
+```

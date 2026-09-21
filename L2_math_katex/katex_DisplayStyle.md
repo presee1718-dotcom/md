@@ -1,0 +1,11 @@
+# DisplayStyle
+
+Inline: ${\displaystyle\sqrt{x}}{\sqrt{x}}
+{\displaystyle \frac12}{\frac12}{\displaystyle x^1_2}{x^1_2}
+$
+
+$$
+{\displaystyle\sqrt{x}}{\sqrt{x}}
+{\displaystyle \frac12}{\frac12}{\displaystyle x^1_2}{x^1_2}
+
+$$

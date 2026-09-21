@@ -1,0 +1,12 @@
+# sequenceDiagram #13
+
+```mermaid
+sequenceDiagram
+    participant API@{ "type": "boundary" } as Public API
+    actor DB@{ "type": "database" } as User Database
+    participant Svc@{ "type": "control" } as Auth Service
+    API->>Svc: Authenticate
+    Svc->>DB: Query user
+    DB-->>Svc: User data
+    Svc-->>API: Token
+```

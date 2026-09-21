@@ -1,0 +1,16 @@
+# swimlanes #5
+
+```mermaid
+swimlane-beta LR
+  subgraph sales [Sales team]
+    lead[Qualify lead]
+    quote[Prepare quote]
+  end
+
+  subgraph finance [Finance team]
+    review[Review terms]
+    approve[Approve quote]
+  end
+
+  lead --> quote --> review --> approve
+```

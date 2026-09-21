@@ -1,0 +1,9 @@
+# block #16
+
+```mermaid
+block
+  id1[/"This is the text in the box"/]
+  id2[\"This is the text in the box"\]
+  A[/"Christmas"\]
+  B[\"Go shopping"/]
+```

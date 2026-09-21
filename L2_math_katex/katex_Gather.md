@@ -1,0 +1,5 @@
+# Gather
+
+$$
+\begin{gather} a=\frac 1 2 \\ e=b+c \end{gather}
+$$

@@ -1,0 +1,10 @@
+# zenuml #4
+
+```mermaid
+zenuml
+    title Aliases
+    A as Alice
+    J as John
+    A->J: Hello John, how are you?
+    J->A: Great!
+```

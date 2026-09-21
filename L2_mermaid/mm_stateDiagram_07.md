@@ -1,0 +1,6 @@
+# stateDiagram #7
+
+```mermaid
+stateDiagram-v2
+    s2 : This is a state description
+```

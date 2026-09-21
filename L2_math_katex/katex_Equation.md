@@ -1,0 +1,5 @@
+# Equation
+
+$$
+\begin{equation}\begin{split}a& =b+c-d \\ & \quad +e-f \\ & =g+h \\ & =i \end{split}\end{equation}
+$$

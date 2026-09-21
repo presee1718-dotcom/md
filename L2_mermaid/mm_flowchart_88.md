@@ -1,0 +1,7 @@
+# flowchart #88
+
+```mermaid
+flowchart LR
+  A e1@--> B
+  e1@{ animation: fast }
+```

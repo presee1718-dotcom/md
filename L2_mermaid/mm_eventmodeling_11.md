@@ -1,0 +1,10 @@
+# eventmodeling #11
+
+```mermaid
+eventmodeling
+
+tf 03 evt External.InventoryChanged
+tf 02 pcr InventoryProcessor
+tf 04 cmd ChangeInventory
+tf 05 evt Cart.InventoryChanged
+```

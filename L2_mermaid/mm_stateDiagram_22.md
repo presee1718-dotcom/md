@@ -1,0 +1,13 @@
+# stateDiagram #22
+
+```mermaid
+stateDiagram
+    classDef yourState font-style:italic,font-weight:bold,fill:white
+
+    yswsii: Your state with spaces in it
+    [*] --> yswsii:::yourState
+    [*] --> SomeOtherState
+    SomeOtherState --> YetAnotherState
+    yswsii --> YetAnotherState
+    YetAnotherState --> [*]
+```

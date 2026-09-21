@@ -1,0 +1,12 @@
+# agentflow #9
+
+```mermaid
+agentflow-beta LR
+  connector github["GitHub API"]
+  github@{ protocol: "http", endpoint: "https://api.github.com" }
+
+  title["Issue title"]@{ shape: input }
+  create["create_issue"]@{ shape: tool, connectorRef: "github.create_issue" }
+
+  title --> create
+```

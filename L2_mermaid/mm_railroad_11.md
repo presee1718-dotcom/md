@@ -1,0 +1,10 @@
+# railroad #11
+
+```mermaid
+railroad-abnf-beta
+title "Phone Number"
+
+phone = [ "+" country-code ] subscriber ;
+country-code = 1*DIGIT ;
+subscriber = 1*( DIGIT / "-" / " " ) ;
+```

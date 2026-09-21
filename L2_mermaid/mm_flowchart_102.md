@@ -1,0 +1,12 @@
+# flowchart #102
+
+```mermaid
+flowchart TD
+    Start --> one
+    subgraph one [My Group]
+        A --> B
+        B --> C
+    end
+    one --> End
+    one@{ view: collapsed }
+```

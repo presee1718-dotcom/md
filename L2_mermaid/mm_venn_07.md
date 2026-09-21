@@ -1,0 +1,12 @@
+# venn #7
+
+```mermaid
+venn-beta
+  set A["Frontend"]
+    text A1["React"]
+    text A2["Design Systems"]
+  set B["Backend"]
+    text B1["API"]
+  union A,B["Shared"]
+    text AB1["OpenAPI"]
+```

@@ -1,0 +1,9 @@
+# StretchyAccentColor
+
+Inline: $\red{\overrightarrow{AB}} \quad \color{blue}{\overleftarrow{AB}} \quad \color{blue}{\green{\Overrightarrow{AB}}} \quad \widehat{\theta} \widetilde{A}
+$
+
+$$
+\red{\overrightarrow{AB}} \quad \color{blue}{\overleftarrow{AB}} \quad \color{blue}{\green{\Overrightarrow{AB}}} \quad \widehat{\theta} \widetilde{A}
+
+$$

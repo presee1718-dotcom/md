@@ -1,0 +1,27 @@
+# classDiagram #22
+
+```mermaid
+---
+config:
+  class:
+    hierarchicalNamespaces: false
+---
+classDiagram
+    namespace Company.Engineering.Backend {
+        class Developer {
+            +writeCode()
+        }
+    }
+    namespace Company.Engineering.Frontend {
+        class Designer {
+            +createMockup()
+        }
+    }
+    namespace Company {
+        class CEO {
+            +makeDecisions()
+        }
+    }
+    CEO --> Developer : oversees
+    CEO --> Designer : oversees
+```

@@ -1,0 +1,12 @@
+# directives #5
+
+```mermaid
+%%{init: { "logLevel": 2 } }%%
+graph TD
+A(Forest) --> B[/Another/]
+A --> C[End]
+  subgraph section
+  B
+  C
+  end
+```

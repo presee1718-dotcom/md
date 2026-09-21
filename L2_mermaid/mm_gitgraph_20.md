@@ -1,0 +1,16 @@
+# gitgraph #20
+
+```mermaid
+gitGraph BT:
+       commit
+       commit
+       branch develop
+       commit
+       commit
+       checkout main
+       commit
+       commit
+       merge develop
+       commit
+       commit
+```

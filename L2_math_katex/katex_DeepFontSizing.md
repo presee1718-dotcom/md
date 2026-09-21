@@ -1,0 +1,13 @@
+# DeepFontSizing
+
+Inline: $a^{\big| x^{\big(}}_{\Big\uparrow} +
+i^{i^{\Huge x}_y}_{\Huge z} +
+\dfrac{\Huge x}{y}
+$
+
+$$
+a^{\big| x^{\big(}}_{\Big\uparrow} +
+i^{i^{\Huge x}_y}_{\Huge z} +
+\dfrac{\Huge x}{y}
+
+$$

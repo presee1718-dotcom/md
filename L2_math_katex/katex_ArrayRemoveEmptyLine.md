@@ -1,0 +1,15 @@
+# ArrayRemoveEmptyLine
+
+Inline: $\begin{pmatrix}
+    1 \\
+    2 \\
+\end{pmatrix}
+$
+
+$$
+\begin{pmatrix}
+    1 \\
+    2 \\
+\end{pmatrix}
+
+$$

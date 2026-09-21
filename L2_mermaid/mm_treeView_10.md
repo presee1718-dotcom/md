@@ -1,0 +1,12 @@
+# treeView #10
+
+```mermaid
+treeView-beta
+    my-project/
+        src/
+            App.tsx :::highlight icon(logos:react) ## main component
+            index.js ## entry point
+        .env ## environment variables
+        Dockerfile
+        package.json
+```

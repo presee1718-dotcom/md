@@ -1,0 +1,17 @@
+# gitgraph #22
+
+```mermaid
+---
+config:
+  gitGraph:
+    parallelCommits: true
+---
+gitGraph:
+  commit
+  branch develop
+  commit
+  commit
+  checkout main
+  commit
+  commit
+```

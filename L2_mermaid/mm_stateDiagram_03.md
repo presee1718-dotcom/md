@@ -1,0 +1,15 @@
+# stateDiagram #3
+
+```mermaid
+stateDiagram-v2
+  [*] --> Draft
+  Draft --> Submitted : submit
+  state Review {
+    [*] --> Screening
+    Screening --> Decision
+  }
+  Submitted --> Review
+  Review --> Published : approved
+  Review --> Draft : rejected
+  Published --> [*]
+```

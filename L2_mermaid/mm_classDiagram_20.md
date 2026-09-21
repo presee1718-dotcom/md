@@ -1,0 +1,22 @@
+# classDiagram #20
+
+```mermaid
+classDiagram
+    namespace Company.Engineering.Backend {
+        class Developer {
+            +writeCode()
+        }
+    }
+    namespace Company.Engineering.Frontend {
+        class Designer {
+            +createMockup()
+        }
+    }
+    namespace Company.Engineering {
+        class TechLead {
+            +planSprint()
+        }
+    }
+    TechLead --> Developer : leads
+    TechLead --> Designer : leads
+```

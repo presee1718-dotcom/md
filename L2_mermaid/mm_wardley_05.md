@@ -1,0 +1,11 @@
+# wardley #5
+
+```mermaid
+wardley-beta
+title Hyphenated Names
+
+component real-time processing [0.55, 0.40]
+component end-user [0.90, 0.95]
+
+end-user -> real-time processing
+```

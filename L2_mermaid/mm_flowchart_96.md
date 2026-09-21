@@ -1,0 +1,6 @@
+# flowchart #96
+
+```mermaid
+flowchart LR
+        A["A double quote:#quot;"] --> B["A dec char:#9829;"]
+```

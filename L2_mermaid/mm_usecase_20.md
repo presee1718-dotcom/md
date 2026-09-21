@@ -1,0 +1,19 @@
+# usecase #20
+
+```mermaid
+---
+config:
+  theme: redux-color
+  usecase:
+    colorScheme: rotate
+---
+usecase-beta
+direction LR
+actor Customer
+actor Auditor
+Browse("Browse catalogue")
+Checkout("Checkout")
+Customer --> Browse
+Browse --> Checkout
+Auditor --> Checkout
+```

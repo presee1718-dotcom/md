@@ -1,0 +1,15 @@
+# Boxed
+
+Inline: $\begin{array}{l}
+  \boxed{F=ma} \quad \boxed{ac}\color{magenta}{\boxed{F}}\boxed{F=mg} \\[2em]
+  A_{\angl n} + B_{\angl g} + C_\angln
+\end{array}
+$
+
+$$
+\begin{array}{l}
+  \boxed{F=ma} \quad \boxed{ac}\color{magenta}{\boxed{F}}\boxed{F=mg} \\[2em]
+  A_{\angl n} + B_{\angl g} + C_\angln
+\end{array}
+
+$$

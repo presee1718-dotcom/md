@@ -1,0 +1,20 @@
+# swimlanes #13
+
+```mermaid
+swimlane-beta LR
+  subgraph Support
+    classify{Can support solve it?}
+    respond[Respond to customer]
+  end
+
+  subgraph Product
+    prioritize[Prioritize fix]
+  end
+
+  subgraph Engineering
+    implement[Implement fix]
+  end
+
+  classify -->|Yes| respond
+  classify -->|No| prioritize --> implement --> respond
+```

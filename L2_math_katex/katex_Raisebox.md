@@ -1,0 +1,7 @@
+# Raisebox
+
+Inline: $\begin{matrix} \frac{a}{a\raisebox{0.5em}{b}} \cdot \frac{a\raisebox{-0.5em}{b}}{a} \cdot \sqrt{a\raisebox{0.5em}{b}} \cdot \sqrt{a\raisebox{-0.5em}{b}} \cdot \sqrt{a\raisebox{0.5em}{b}\raisebox{-0.5em}{b}} \\[2em] a + \left(\vcenter{\hbox{$\frac{a+b}{\dfrac{c}{d}}$}}\right) \end {matrix}$
+
+$$
+\begin{matrix} \frac{a}{a\raisebox{0.5em}{b}} \cdot \frac{a\raisebox{-0.5em}{b}}{a} \cdot \sqrt{a\raisebox{0.5em}{b}} \cdot \sqrt{a\raisebox{-0.5em}{b}} \cdot \sqrt{a\raisebox{0.5em}{b}\raisebox{-0.5em}{b}} \\[2em] a + \left(\vcenter{\hbox{$\frac{a+b}{\dfrac{c}{d}}$}}\right) \end {matrix}
+$$

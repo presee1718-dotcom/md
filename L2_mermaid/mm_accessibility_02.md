@@ -1,0 +1,13 @@
+# accessibility #2
+
+```mermaid
+graph LR
+      accTitle: Bob's Burger's Making Big Decisions
+      accDescr {
+        The official Bob's Burgers corporate processes that are used
+        for making very, very big decisions.
+        This is actually a very simple flow: identify the big decision and then make the big decision.
+         }
+      A[Identify Big Decision] --> B{Make Big Decision}
+      B --> D[Be done]
+```

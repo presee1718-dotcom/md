@@ -1,0 +1,5 @@
+# CD
+
+$$
+\begin{CD} A @<a<< B @>>b> C \\ @| @AcAA @VVdV \\ D @= E @>>> F \end{CD}
+$$

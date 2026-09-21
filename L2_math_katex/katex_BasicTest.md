@@ -1,0 +1,7 @@
+# BasicTest
+
+Inline: $a$
+
+$$
+a
+$$

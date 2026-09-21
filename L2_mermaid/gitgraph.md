@@ -1,0 +1,10 @@
+# Git graph
+
+```mermaid
+gitGraph
+    commit
+    branch dev
+    commit
+    checkout main
+    merge dev
+```

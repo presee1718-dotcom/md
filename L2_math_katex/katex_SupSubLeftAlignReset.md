@@ -1,0 +1,9 @@
+# SupSubLeftAlignReset
+
+Inline: $\omega^8_{888} \quad \frac{1}{\hat{\omega}^{8}_{888}} \quad \displaystyle\sum_{\omega^{8}_{888}}
+$
+
+$$
+\omega^8_{888} \quad \frac{1}{\hat{\omega}^{8}_{888}} \quad \displaystyle\sum_{\omega^{8}_{888}}
+
+$$

@@ -1,0 +1,18 @@
+# agentflow #7
+
+```mermaid
+agentflow-beta TB
+  global
+    corpus["Shared corpus"]@{ shape: refdoc }
+  end
+
+  flow summariser["Summariser"]
+    summarise["Summarise"]@{ shape: task }
+    summarise -.- corpus
+  end
+
+  flow indexer["Indexer"]
+    index["Build index"]@{ shape: task }
+    index -.- corpus
+  end
+```

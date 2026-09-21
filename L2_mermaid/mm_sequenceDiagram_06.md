@@ -1,0 +1,9 @@
+# sequenceDiagram #6
+
+```mermaid
+sequenceDiagram
+    participant Alice@{ "type" : "boundary" }
+    participant Bob
+    Alice->>Bob: Request from boundary
+    Bob->>Alice: Response to boundary
+```

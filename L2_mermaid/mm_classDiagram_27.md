@@ -1,0 +1,11 @@
+# classDiagram #27
+
+```mermaid
+classDiagram
+%% This whole line is a comment classDiagram class Shape <<interface>>
+class Shape{
+    <<interface>>
+    noOfVertices
+    draw()
+}
+```

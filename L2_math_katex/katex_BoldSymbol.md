@@ -1,0 +1,13 @@
+# BoldSymbol
+
+Inline: $\sum_{\boldsymbol{\alpha}}^{\boldsymbol{\beta}} \boldsymbol{\omega}+ \boldsymbol{\int_\alpha^\beta} \boldsymbol{\Omega + {}} \\
+\boldsymbol{\lim_{x \to \infty} \log Ax2k\omega\Omega\imath+} \\
+x \boldsymbol{+} y \boldsymbol{=} z
+$
+
+$$
+\sum_{\boldsymbol{\alpha}}^{\boldsymbol{\beta}} \boldsymbol{\omega}+ \boldsymbol{\int_\alpha^\beta} \boldsymbol{\Omega + {}} \\
+\boldsymbol{\lim_{x \to \infty} \log Ax2k\omega\Omega\imath+} \\
+x \boldsymbol{+} y \boldsymbol{=} z
+
+$$

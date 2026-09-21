@@ -1,0 +1,11 @@
+# zenuml #13
+
+```mermaid
+zenuml
+    Alice->Bob: Hello Bob, how are you?
+    if(is_sick) {
+      Bob->Alice: Not so good :(
+    } else {
+      Bob->Alice: Feeling fresh like a daisy
+    }
+```

@@ -1,0 +1,9 @@
+# sequenceDiagram #10
+
+```mermaid
+sequenceDiagram
+    participant Alice@{ "type" : "collections" }
+    participant Bob
+    Alice->>Bob: Collections request
+    Bob->>Alice: Collections response
+```

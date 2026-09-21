@@ -1,0 +1,7 @@
+# HorizontalBrackets
+
+Inline: $\overbracket{\displaystyle{a+b+c}}^{\text{note}} = \underbracket{x+y+z}_{\text{label}}$
+
+$$
+\overbracket{\displaystyle{a+b+c}}^{\text{note}} = \underbracket{x+y+z}_{\text{label}}
+$$

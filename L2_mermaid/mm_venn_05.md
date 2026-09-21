@@ -1,0 +1,9 @@
+# venn #5
+
+```mermaid
+venn-beta
+  set Desirable
+  set Feasible
+  set Viable
+  union Desirable,Feasible,Viable["Innovation"]
+```

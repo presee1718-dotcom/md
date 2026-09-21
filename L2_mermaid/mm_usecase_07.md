@@ -1,0 +1,10 @@
+# usecase #7
+
+```mermaid
+usecase-beta
+actor Analyst(*Analyst*)
+Literal(**Literal markers**)
+Priced[Costs 19.95 EUR — VAT included!]
+Analyst -- files R&D report --> Literal
+Analyst --> Priced
+```

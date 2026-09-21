@@ -1,0 +1,18 @@
+# accessibility #6
+
+```mermaid
+gitGraph
+      accTitle: My GitGraph Accessibility Title
+      accDescr: My GitGraph Accessibility Description
+
+     commit
+     commit
+     branch develop
+     checkout develop
+     commit
+     commit
+     checkout main
+     merge develop
+     commit
+     commit
+```

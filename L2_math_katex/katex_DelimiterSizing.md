@@ -1,0 +1,31 @@
+# DelimiterSizing
+
+Inline: $\bigl\uparrow\Bigl\downarrow\biggl\updownarrow
+\Biggl\Uparrow\Biggr\Downarrow\biggr\langle\Bigr\}\bigr\rfloor\; \Set{ x | x<\frac 1 2 } \\
+\begin{pmatrix}
+    a & b & c\\
+    a & b & c\\
+    a & b & c\\
+\end{pmatrix}\; \begin{bmatrix}
+    a & b & c\\
+    a & b & c\\
+    a & b & c\\
+\end{bmatrix} \\
+\Braket{ ϕ | \frac{∂^2}{∂ t^2} | ψ } \\
+$
+
+$$
+\bigl\uparrow\Bigl\downarrow\biggl\updownarrow
+\Biggl\Uparrow\Biggr\Downarrow\biggr\langle\Bigr\}\bigr\rfloor\; \Set{ x | x<\frac 1 2 } \\
+\begin{pmatrix}
+    a & b & c\\
+    a & b & c\\
+    a & b & c\\
+\end{pmatrix}\; \begin{bmatrix}
+    a & b & c\\
+    a & b & c\\
+    a & b & c\\
+\end{bmatrix} \\
+\Braket{ ϕ | \frac{∂^2}{∂ t^2} | ψ } \\
+
+$$

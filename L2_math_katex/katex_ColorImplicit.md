@@ -1,0 +1,7 @@
+# ColorImplicit
+
+Inline: $\begin{array}{l} bl{ack\color{red}red\textcolor{green}{green}red\color{blue}blue}black \\ black\left(black\color{red}red\right)black \end{array}$
+
+$$
+\begin{array}{l} bl{ack\color{red}red\textcolor{green}{green}red\color{blue}blue}black \\ black\left(black\color{red}red\right)black \end{array}
+$$

@@ -1,0 +1,21 @@
+# NewLine
+
+Inline: $\frac{a^2+b^2}{c^2} \newline
+\frac{a^2+b^2}{c^2} \\[1ex]
+\begin{pmatrix}
+    a & b \\
+    c & d \cr
+\end{pmatrix} \\
+a+b+c+{d+\\e}+f+g
+$
+
+$$
+\frac{a^2+b^2}{c^2} \newline
+\frac{a^2+b^2}{c^2} \\[1ex]
+\begin{pmatrix}
+    a & b \\
+    c & d \cr
+\end{pmatrix} \\
+a+b+c+{d+\\e}+f+g
+
+$$

@@ -1,0 +1,9 @@
+# sequenceDiagram #15
+
+```mermaid
+sequenceDiagram
+    participant API@{ "type": "boundary", "alias": "Internal Name" } as External Name
+    participant DB@{ "type": "database", "alias": "Internal DB" } as External DB
+    API->>DB: Query
+    DB-->>API: Result
+```

@@ -1,0 +1,17 @@
+# ExtensibleArrows
+
+Inline: $\begin{array}{l}
+    \xrightarrow[ab]{ABC} + \xRightarrow{ABC} \\
+    \xrightleftharpoons[ab]{ABC} + \xhookrightarrow[ab]{ABC} \\
+    \xtwoheadrightarrow{ABC} + \frac{\xrightarrow[ab]{ABC}}{\xrightarrow[ab]{ABC}} + \left\lvert\xrightarrow[ab]{ABC}\right\rvert
+\end{array}
+$
+
+$$
+\begin{array}{l}
+    \xrightarrow[ab]{ABC} + \xRightarrow{ABC} \\
+    \xrightleftharpoons[ab]{ABC} + \xhookrightarrow[ab]{ABC} \\
+    \xtwoheadrightarrow{ABC} + \frac{\xrightarrow[ab]{ABC}}{\xrightarrow[ab]{ABC}} + \left\lvert\xrightarrow[ab]{ABC}\right\rvert
+\end{array}
+
+$$

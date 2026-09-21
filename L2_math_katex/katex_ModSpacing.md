@@ -1,0 +1,17 @@
+# ModSpacing
+
+Inline: $\begin{array}{l}
+    (a \cdot b) \bmod 257 \\
+    (a \cdot b) \mkern1mu\mathbin{\mathrm{mod}}\mkern1mu 257 \\
+    (a \cdot b) \mathbin{\mathrm{mod}} 257
+\end{array}
+$
+
+$$
+\begin{array}{l}
+    (a \cdot b) \bmod 257 \\
+    (a \cdot b) \mkern1mu\mathbin{\mathrm{mod}}\mkern1mu 257 \\
+    (a \cdot b) \mathbin{\mathrm{mod}} 257
+\end{array}
+
+$$

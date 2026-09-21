@@ -1,0 +1,19 @@
+# Mod
+
+Inline: $\begin{array}{cc}
+    a \bmod 2 & b \pod 3 \\
+    c \pmod{4} & d \mod{56} \\
+    \displaystyle a\bmod 2 & \displaystyle b \pod 3 \\
+    \displaystyle c\pmod{4} & \displaystyle d \mod{56}
+\end{array}
+$
+
+$$
+\begin{array}{cc}
+    a \bmod 2 & b \pod 3 \\
+    c \pmod{4} & d \mod{56} \\
+    \displaystyle a\bmod 2 & \displaystyle b \pod 3 \\
+    \displaystyle c\pmod{4} & \displaystyle d \mod{56}
+\end{array}
+
+$$

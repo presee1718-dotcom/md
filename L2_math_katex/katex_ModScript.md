@@ -1,0 +1,15 @@
+# ModScript
+
+Inline: $\begin{array}{cc}
+    \scriptstyle a\bmod 2 & \scriptstyle b \pod 3 \\
+    \scriptstyle c\pmod{4} & \scriptstyle d \mod{56}
+\end{array}
+$
+
+$$
+\begin{array}{cc}
+    \scriptstyle a\bmod 2 & \scriptstyle b \pod 3 \\
+    \scriptstyle c\pmod{4} & \scriptstyle d \mod{56}
+\end{array}
+
+$$

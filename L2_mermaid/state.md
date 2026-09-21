@@ -1,0 +1,9 @@
+# State
+
+```mermaid
+stateDiagram-v2
+    [*] --> Idle
+    Idle --> Running: start
+    Running --> Idle: stop
+    Running --> [*]
+```

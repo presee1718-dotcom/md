@@ -1,0 +1,5 @@
+# DisplayMode
+
+$$
+\sum_{i=0}^\infty \frac{1}{i}
+$$

@@ -1,0 +1,9 @@
+# classDiagram #31
+
+```mermaid
+classDiagram
+class Shape
+callback Shape "callbackFunction" "This is a tooltip for a callback"
+class Shape2
+click Shape2 call callbackFunction() "This is a tooltip for a callback"
+```

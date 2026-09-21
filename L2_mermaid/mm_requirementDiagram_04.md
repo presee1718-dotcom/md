@@ -1,0 +1,12 @@
+# requirementDiagram #4
+
+```mermaid
+requirementDiagram
+
+requirement "__test_req__" {
+    id: 1
+    text: "*italicized text* **bold text**"
+    risk: high
+    verifymethod: test
+}
+```

@@ -1,0 +1,7 @@
+# entityRelationshipDiagram #8
+
+```mermaid
+erDiagram
+    CAR 1 to zero or more NAMED-DRIVER : allows
+    PERSON many(0) optionally to 0+ NAMED-DRIVER : is
+```

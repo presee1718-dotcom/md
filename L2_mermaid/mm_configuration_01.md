@@ -1,0 +1,13 @@
+# configuration #1
+
+```mermaid
+---
+title: Hello Title
+config:
+  theme: base
+  themeVariables:
+    primaryColor: "#00ff00"
+---
+flowchart
+	Hello --> World
+```

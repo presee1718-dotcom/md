@@ -1,0 +1,7 @@
+# SupSubOffsets
+
+Inline: $\displaystyle \int_{2+3}x f^{2+3}+3\lim_{2+3+4+5}f$
+
+$$
+\displaystyle \int_{2+3}x f^{2+3}+3\lim_{2+3+4+5}f
+$$

@@ -1,0 +1,24 @@
+# classDiagram #2
+
+```mermaid
+classDiagram
+  class Customer {
+    +String name
+    +String email
+  }
+  class Order {
+    +String id
+    +Date placedAt
+    +total() Money
+  }
+  class LineItem {
+    +int quantity
+  }
+  class Payment {
+    <<interface>>
+    +authorise() bool
+  }
+  Customer "1" --> "*" Order : places
+  Order "1" *-- "*" LineItem : contains
+  Order --> Payment : settled by
+```

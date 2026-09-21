@@ -1,0 +1,14 @@
+# wardley #10
+
+```mermaid
+wardley-beta
+title Evolution
+
+component Database [0.40, 0.50]
+component API [0.55, 0.60]
+
+Database -> API
+
+evolve Database 0.75
+evolve API 0.80
+```

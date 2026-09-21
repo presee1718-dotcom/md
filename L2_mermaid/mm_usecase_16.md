@@ -1,0 +1,10 @@
+# usecase #16
+
+```mermaid
+usecase-beta
+note for Login "`Requires an **active session**`"
+note for User "Starts the workflow"
+actor User
+Login("Sign in")
+User --> Login
+```

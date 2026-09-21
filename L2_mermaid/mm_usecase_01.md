@@ -1,0 +1,11 @@
+# usecase #1
+
+```mermaid
+usecase-beta
+direction LR
+actor Customer("Customer")
+systemBoundary "Order system"
+  Checkout("Place order")
+end
+Customer --> Checkout
+```

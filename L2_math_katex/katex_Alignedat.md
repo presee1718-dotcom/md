@@ -1,0 +1,15 @@
+# Alignedat
+
+Inline: $\begin{alignedat}{3}
+    a &= 1 & b &= 2 &\quad c &= 3\\
+    3a &= 3 & 17b &= 34 &\quad 400c &= 1200
+\end{alignedat}
+$
+
+$$
+\begin{alignedat}{3}
+    a &= 1 & b &= 2 &\quad c &= 3\\
+    3a &= 3 & 17b &= 34 &\quad 400c &= 1200
+\end{alignedat}
+
+$$

@@ -1,0 +1,19 @@
+# OperatorName
+
+Inline: $\begin{matrix}
+    \operatorname g (z) + 5\operatorname{g}z + \operatorname{Gam-ma}(z) \\
+    \operatorname{Gam ma}(z) + \operatorname{\Gamma}(z) + \operatorname{}x \\
+    \operatorname*{asin} x + \operatorname*{asin}_y x + \operatorname*{asin}\limits_y x \\[0.3em]
+    {\displaystyle \operatorname*{asin}_y x}
+\end{matrix}
+$
+
+$$
+\begin{matrix}
+    \operatorname g (z) + 5\operatorname{g}z + \operatorname{Gam-ma}(z) \\
+    \operatorname{Gam ma}(z) + \operatorname{\Gamma}(z) + \operatorname{}x \\
+    \operatorname*{asin} x + \operatorname*{asin}_y x + \operatorname*{asin}\limits_y x \\[0.3em]
+    {\displaystyle \operatorname*{asin}_y x}
+\end{matrix}
+
+$$

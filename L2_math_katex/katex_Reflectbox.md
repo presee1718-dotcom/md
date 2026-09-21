@@ -1,0 +1,19 @@
+# Reflectbox
+
+Inline: $\begin{gathered}
+    a + \reflectbox{abc} = b \\
+    \reflectbox{$x^2 + \frac{a}{b}$}
+    \quad \mathreflectbox{x^2 + \frac{a}{b}} \\
+    x_{\mathreflectbox{\frac{a}{b}}} \quad x_{\frac{a}{b}}
+\end{gathered}
+$
+
+$$
+\begin{gathered}
+    a + \reflectbox{abc} = b \\
+    \reflectbox{$x^2 + \frac{a}{b}$}
+    \quad \mathreflectbox{x^2 + \frac{a}{b}} \\
+    x_{\mathreflectbox{\frac{a}{b}}} \quad x_{\frac{a}{b}}
+\end{gathered}
+
+$$

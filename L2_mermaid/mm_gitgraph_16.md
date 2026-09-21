@@ -1,0 +1,17 @@
+# gitgraph #16
+
+```mermaid
+---
+config:
+  logLevel: 'debug'
+  theme: 'base'
+  gitGraph:
+    showBranches: true
+    showCommitLabel: true
+---
+      gitGraph
+      commit
+      branch test1 order: 3
+      branch test2 order: 2
+      branch test3 order: 1
+```

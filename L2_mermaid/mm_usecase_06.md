@@ -1,0 +1,12 @@
+# usecase #6
+
+```mermaid
+usecase-beta
+actor SalesAgent("Sales agent")@{ business: true } <<Employee>>
+actor Broker@{ type: hollow, business: true }
+Quote("Prepare quote")@{ business: true } <<Core>>
+Archive[Archive quote] <<Record>>
+SalesAgent --> Quote
+Broker --> Quote
+Quote --> Archive
+```

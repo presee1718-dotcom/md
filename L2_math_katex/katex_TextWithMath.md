@@ -1,0 +1,7 @@
+# TextWithMath
+
+Inline: $\begin{matrix} \text{for $a < b$ and $ c < d $}. \\ \textsf{for $a < b$ and $ c < d $}. \\ \textsf{for $a < b \textbf{ and } c < d $} \\ \text{\sf for $a < b$ and $c < d$.} \end{matrix}$
+
+$$
+\begin{matrix} \text{for $a < b$ and $ c < d $}. \\ \textsf{for $a < b$ and $ c < d $}. \\ \textsf{for $a < b \textbf{ and } c < d $} \\ \text{\sf for $a < b$ and $c < d$.} \end{matrix}
+$$

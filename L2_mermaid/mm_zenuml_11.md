@@ -1,0 +1,10 @@
+# zenuml #11
+
+```mermaid
+zenuml
+    // a comment on a participant will not be rendered
+    BookService
+    // a comment on a message.
+    // **Markdown** is supported.
+    BookService.getBook()
+```

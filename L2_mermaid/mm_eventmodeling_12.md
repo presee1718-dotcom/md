@@ -1,0 +1,8 @@
+# eventmodeling #12
+
+```mermaid
+eventmodeling
+
+rf 01 evt Inventory.InventoryChanged
+rf 02 evt External.InventoryChanged
+```

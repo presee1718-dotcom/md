@@ -1,0 +1,20 @@
+# usecase #19
+
+```mermaid
+---
+config:
+  theme: redux-color
+---
+usecase-beta
+direction LR
+actor Customer
+systemBoundary Catalogue
+  Browse("Browse catalogue")
+end
+systemBoundary Payment
+  Checkout("Checkout")
+end
+Customer --> Browse
+Browse --> Checkout
+Checkout ..> : include Browse
+```

@@ -1,0 +1,10 @@
+# zenuml #14
+
+```mermaid
+zenuml
+    Alice->Bob: Hello Bob, how are you?
+    Bob->Alice: Not so good :(
+    opt {
+      Bob->Alice: Thanks for asking
+    }
+```

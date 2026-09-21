@@ -1,0 +1,23 @@
+# swimlanes #6
+
+```mermaid
+swimlane-beta LR
+  subgraph Intake
+    start([Start])
+    task[Do work]
+    fix[Fix issues]
+  end
+
+  subgraph Review
+    decision{Ready?}
+  end
+
+  subgraph Complete
+    done((Done))
+  end
+
+  start --> task --> decision
+  decision -->|Yes| done
+  decision -->|No| fix
+  fix --> task
+```

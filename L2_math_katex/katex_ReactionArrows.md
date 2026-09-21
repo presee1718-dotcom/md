@@ -1,0 +1,15 @@
+# ReactionArrows
+
+Inline: $\begin{matrix}
+    A \xrightleftarrows{} B \xrightequilibrium{} C \xleftequilibrium{} D \\
+    A \xrightleftarrows{over} B \xrightequilibrium{over} C \xleftequilibrium{over} D
+\end{matrix}
+$
+
+$$
+\begin{matrix}
+    A \xrightleftarrows{} B \xrightequilibrium{} C \xleftequilibrium{} D \\
+    A \xrightleftarrows{over} B \xrightequilibrium{over} C \xleftequilibrium{over} D
+\end{matrix}
+
+$$

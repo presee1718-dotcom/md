@@ -1,0 +1,6 @@
+# flowchart #69
+
+```mermaid
+flowchart TD
+    A@{ icon: "fa:user", form: "square", label: "User Icon", pos: "t", h: 60 }
+```

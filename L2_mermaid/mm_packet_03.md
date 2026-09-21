@@ -1,0 +1,16 @@
+# packet #3
+
+```mermaid
+---
+config:
+  packet:
+    showBits: true
+    bitOrder: descending
+    bitsPerRow: 16
+---
+packet
+0-7: "DATA"
+8-11: "TYPE"
+12: "EN"
+13-15: "RESERVED"
+```

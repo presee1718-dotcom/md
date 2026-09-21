@@ -1,0 +1,3 @@
+# katex doc inline 952
+
+Inline: $\begin{vmatrix}a&b\\c&d\end{vmatrix}$

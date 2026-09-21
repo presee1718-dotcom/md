@@ -1,0 +1,7 @@
+# Kern
+
+Inline: $\frac{a\kern{1em}b}{c}a\kern{1em}b\kern{1ex}c\kern{-0.25em}d$
+
+$$
+\frac{a\kern{1em}b}{c}a\kern{1em}b\kern{1ex}c\kern{-0.25em}d
+$$

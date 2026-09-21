@@ -1,0 +1,19 @@
+# entityRelationshipDiagram #22
+
+```mermaid
+erDiagram
+    direction TB
+    CAR:::someclass {
+        string registrationNumber
+        string make
+        string model
+    }
+    PERSON:::someclass {
+        string firstName
+        string lastName
+        int age
+    }
+    HOUSE:::someclass
+
+    classDef someclass fill:#f96
+```

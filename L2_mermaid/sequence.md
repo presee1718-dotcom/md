@@ -1,0 +1,10 @@
+# Sequence
+
+```mermaid
+sequenceDiagram
+    participant A as Alice
+    participant B as Bob
+    A->>B: Hello
+    B-->>A: Hi
+    A-)B: async
+```

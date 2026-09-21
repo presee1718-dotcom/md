@@ -1,0 +1,9 @@
+# gantt #3
+
+```mermaid
+gantt
+    apple :a, 2017-07-20, 1w
+    banana :crit, b, 2017-07-23, 1d
+    cherry :active, c, after b a, 1d
+    kiwi   :d, 2017-07-20, until b c
+```

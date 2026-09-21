@@ -1,0 +1,7 @@
+# flowchart #111
+
+```mermaid
+flowchart LR
+    A:::myStyle --> B
+    classDef myStyle fill:#ff0000,stroke:#ffff00,stroke-width:4px
+```

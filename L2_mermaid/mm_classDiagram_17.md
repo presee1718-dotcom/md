@@ -1,0 +1,13 @@
+# classDiagram #17
+
+```mermaid
+classDiagram
+  class Class01 {
+    int amount
+    draw()
+  }
+  Class01 --() bar
+  Class02 --() bar
+
+  foo ()-- Class01
+```

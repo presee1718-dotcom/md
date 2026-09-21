@@ -1,0 +1,19 @@
+# Spacing
+
+Inline: $\begin{matrix}
+    ^3+[-1][1-1]1=1(=1)\lvert a\rvert~b \\
+    \scriptstyle{^3+[-1][1-1]1=1(=1)\lvert a\rvert~b} \\
+    \scriptscriptstyle{^3+[-1][1-1]1=1(=1)\lvert a\rvert~b} \\
+    a : a \colon a \\
+\end{matrix}
+$
+
+$$
+\begin{matrix}
+    ^3+[-1][1-1]1=1(=1)\lvert a\rvert~b \\
+    \scriptstyle{^3+[-1][1-1]1=1(=1)\lvert a\rvert~b} \\
+    \scriptscriptstyle{^3+[-1][1-1]1=1(=1)\lvert a\rvert~b} \\
+    a : a \colon a \\
+\end{matrix}
+
+$$

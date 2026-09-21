@@ -1,0 +1,10 @@
+# classDiagram #35
+
+```mermaid
+classDiagram
+    class Animal:::someclass {
+        -int sizeInFeet
+        -canEat()
+    }
+    classDef someclass fill:#f96
+```

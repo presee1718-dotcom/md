@@ -1,0 +1,15 @@
+# SqrtRoot
+
+Inline: $\begin{array}{l}
+    1+\sqrt[3]{2}+\sqrt[1923^234]{2^{2^{2^{2^{2^{2^{2^{2^{2^{2^{2^2}}}}}}}}}}} \\
+    \Huge \sqrt[3]{M} + x^{\sqrt[3] a}
+\end{array}
+$
+
+$$
+\begin{array}{l}
+    1+\sqrt[3]{2}+\sqrt[1923^234]{2^{2^{2^{2^{2^{2^{2^{2^{2^{2^{2^2}}}}}}}}}}} \\
+    \Huge \sqrt[3]{M} + x^{\sqrt[3] a}
+\end{array}
+
+$$

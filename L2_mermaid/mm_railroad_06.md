@@ -1,0 +1,10 @@
+# railroad #6
+
+```mermaid
+railroad-ebnf-beta
+title "Identifier with Repetition"
+
+identifier = letter ( letter | digit | "_" )* ;
+letter = "a" | "b" | "c" | "d" | "e" ;
+digit = "0" | "1" | "2" ;
+```

@@ -1,0 +1,9 @@
+# accessibility #1
+
+```mermaid
+graph LR
+      accTitle: Big Decisions
+      accDescr: Bob's Burgers process for making big decisions
+      A[Identify Big Decision] --> B{Make Big Decision}
+      B --> D[Be done]
+```

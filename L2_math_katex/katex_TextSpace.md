@@ -1,0 +1,7 @@
+# TextSpace
+
+Inline: $\begin{array}{l} \texttt{12345678901234} \\ \texttt{A test  1~~2\ \ 3} \\ \verb|A test 1  2  3| \end{array}$
+
+$$
+\begin{array}{l} \texttt{12345678901234} \\ \texttt{A test  1~~2\ \ 3} \\ \verb|A test 1  2  3| \end{array}
+$$

@@ -1,0 +1,10 @@
+# directives #7
+
+```mermaid
+sequenceDiagram
+
+Alice->Bob: Hello Bob, how are you?
+Bob->Alice: Fine, how did your mother like the book I suggested? And did you catch the new book about alien invasion?
+Alice->Bob: Good.
+Bob->Alice: Cool
+```

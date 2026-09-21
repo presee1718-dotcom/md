@@ -1,0 +1,11 @@
+# gitgraph #4
+
+```mermaid
+gitGraph
+       commit id: "Normal"
+       commit
+       commit id: "Reverse" type: REVERSE
+       commit
+       commit id: "Highlight" type: HIGHLIGHT
+       commit
+```

@@ -1,0 +1,6 @@
+# flowchart #33
+
+```mermaid
+flowchart TD
+    A@{ shape: lean-l, label: "Output/Input" }
+```

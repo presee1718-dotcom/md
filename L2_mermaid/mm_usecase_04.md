@@ -1,0 +1,12 @@
+# usecase #4
+
+```mermaid
+usecase-beta
+Customer --> Login
+actor Customer
+actor Admin("Main administrator")
+Login("Sign in")
+Report[Generate report]
+"Reset password"
+Admin --> Report
+```

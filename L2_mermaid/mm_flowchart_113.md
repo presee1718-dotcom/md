@@ -1,0 +1,7 @@
+# flowchart #113
+
+```mermaid
+flowchart TD
+    B["fa:fa-twitter for peace"]
+    B-->C["fab:fa-truck-bold a custom icon"]
+```

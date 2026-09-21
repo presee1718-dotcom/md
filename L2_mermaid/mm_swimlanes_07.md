@@ -1,0 +1,18 @@
+# swimlanes #7
+
+```mermaid
+swimlane-beta LR
+  subgraph Buyer
+    choose[Choose product]
+    pay[Pay invoice]
+  end
+
+  subgraph Store
+    reserve[Reserve stock]
+    ship[Ship product]
+  end
+
+  choose --> reserve
+  reserve -->|Invoice ready| pay
+  pay --> ship
+```

@@ -1,0 +1,18 @@
+# swimlanes #12
+
+```mermaid
+swimlane-beta LR
+  subgraph ops [Operations]
+    intake[Receive request]
+    plan[Plan work]
+  end
+
+  subgraph legal [Legal]
+    review[Review contract]
+  end
+
+  intake --> plan --> review
+
+  classDef attention fill:#fff2cc,stroke:#d6a500,color:#111;
+  class review attention;
+```

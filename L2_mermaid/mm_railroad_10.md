@@ -1,0 +1,11 @@
+# railroad #10
+
+```mermaid
+railroad-abnf-beta
+title "Email Address"
+
+address = local-part "@" domain ;
+local-part = 1*( ALPHA / DIGIT / "." / "-" ) ;
+domain = label *( "." label ) ;
+label = 1*( ALPHA / DIGIT / "-" ) ;
+```

@@ -1,0 +1,13 @@
+# usecase #8
+
+```mermaid
+usecase-beta
+actor Reviewer("`*Reviewer*`")
+Literal("**Literal markers**")
+Formatted("`**Formatted label**
+with a physical line break`")
+Quoted("Show #quot;quoted#quot; text")
+Reviewer -- "`opens **form**`" --> Formatted
+Reviewer --> Literal
+Reviewer --> Quoted
+```

@@ -1,0 +1,10 @@
+# mindmap #10
+
+```mermaid
+mindmap
+    Root
+        A
+        ::icon(fa fa-book)
+        B(B)
+        ::icon(mdi mdi-skull-outline)
+```
