@@ -1,7 +1,0 @@
-# zenuml #7
-
-```mermaid
-zenuml
-    new A1
-    new A2(with, parameters)
-```

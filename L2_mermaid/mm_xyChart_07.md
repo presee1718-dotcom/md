@@ -1,9 +1,0 @@
-# xyChart #7
-
-```mermaid
-xychart
-    title "Quarterly Performance"
-    x-axis [Q1, Q2, Q3, Q4]
-    y-axis "Revenue ($M)" 0 --> 100
-    line [25 "Launch", 45, 72, 90 "Target Hit"]
-```

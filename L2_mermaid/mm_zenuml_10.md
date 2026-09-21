@@ -1,9 +1,0 @@
-# zenuml #10
-
-```mermaid
-zenuml
-    A.method() {
-      B.nested_sync_method()
-      B->C: nested async message
-    }
-```

@@ -1,3 +1,0 @@
-# katex doc inline 1079
-
-Inline: $\gdef\foo#1{#1^2} \foo{y} + \foo{y}$

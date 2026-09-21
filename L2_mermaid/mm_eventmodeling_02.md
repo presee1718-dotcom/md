@@ -1,9 +1,0 @@
-# eventmodeling #2
-
-```mermaid
-eventmodeling
-
-tf 01 ui CartUI
-tf 02 cmd AddItem { description: string }
-tf 03 evt ItemAdded { description: string }
-```

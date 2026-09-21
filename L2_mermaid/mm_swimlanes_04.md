@@ -1,9 +1,0 @@
-# swimlanes #4
-
-```mermaid
-swimlane-beta
-  subgraph Sales
-    lead[Qualify lead]
-    quote[Prepare quote]
-  end
-```

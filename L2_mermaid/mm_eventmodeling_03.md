@@ -1,9 +1,0 @@
-# eventmodeling #3
-
-```mermaid
-eventmodeling
-
-timeframe 01 ui CartUI
-timeframe 02 command AddItem { description: string }
-timeframe 03 event ItemAdded { description: string }
-```

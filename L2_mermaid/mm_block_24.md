@@ -1,9 +1,0 @@
-# block #24
-
-```mermaid
-block
-  id1 space id2
-  id1("Start")-->id2("Stop")
-  style id1 fill:#636,stroke:#333,stroke-width:4px
-  style id2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
-```

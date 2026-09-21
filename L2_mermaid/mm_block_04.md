@@ -1,7 +1,0 @@
-# block #4
-
-```mermaid
-block
-  columns 3
-  a["A label"] b:2 c:2 d
-```

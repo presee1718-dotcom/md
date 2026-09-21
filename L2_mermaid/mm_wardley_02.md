@@ -1,7 +1,0 @@
-# wardley #2
-
-```mermaid
-wardley-beta
-title Your Map Title
-size [1100, 600]
-```

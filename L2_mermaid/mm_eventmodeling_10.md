@@ -1,9 +1,0 @@
-# eventmodeling #10
-
-```mermaid
-eventmodeling
-
-tf 03 evt ItemAdded
-tf 02 rmo CartItems
-tf 04 ui CartUI
-```
